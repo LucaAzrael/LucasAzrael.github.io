@@ -1,0 +1,25 @@
+/* CSS Document */
+@charset "utf-8";
+body{
+background-color: black
+}
+.container {
+	background-color: #CC5500;
+	margin: 0 auto;
+	width: 1024px;
+}
+.nav {
+	margin: 0 auto;
+	background-color: #CC5500;
+}
+.contect {
+	align-items: center
+}
+.logo {
+	float: right;
+	width: 1024;
+}
+.contect {
+	background-color: #CC5500;
+	width: 1024px;
+}
